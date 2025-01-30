@@ -1,0 +1,16 @@
+{
+  "navne": {
+    "fornavn": "Lindan",
+    "efternavn": "Chen"
+  },
+
+  "alder": 24,
+  "studerende": true,
+  "interesser": ["Design", "Film", "Venner"],
+  "adresse": {
+    "vej": "Lindsgade 6",
+    "by": "Rødby",
+    "postnummer": 4970
+  },
+  "Fødselsdagsdato": "2000-12-21"
+}
