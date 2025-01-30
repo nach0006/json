@@ -3,8 +3,12 @@
     "fornavn": "Nadia",
     "efternavn": "Christiansen"
   },
-  "alder": 19,
-  "fødselsdagdato": "16/02/2005",
+  "år": [
+    {
+      "alder": 24
+    },
+    { "fødeår": 2000 }
+  ],
   "addresse": {
     "vej": "Øster Farigmagsgade 13th",
     "by": "København"
