@@ -1,0 +1,12 @@
+{
+  "navn": { "fornavn": "Marie", "efternavn": "Jensen" },
+
+  "år": [{ "alder": 24 }, { "fødeår": 2000 }],
+
+  "intereser": ["design", "film", "bøger"],
+
+  "kontakt": [
+    { "type": "telefon", "nummer": 28176648 },
+    { "type": "email", "adresse": "mariewpj@gmail.com" }
+  ]
+}
