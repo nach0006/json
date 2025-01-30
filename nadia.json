@@ -1,0 +1,22 @@
+{
+  "navn": {
+    "fornavn": "Nadia",
+    "efternavn": "Christiansen"
+  },
+  "alder": 19,
+  "fødselsdagdato": "16/02/2005",
+  "addresse": {
+    "vej": "Øster Farigmagsgade 13th",
+    "by": "København"
+  },
+  "studie": {
+    "studerende": true,
+    "uddannelse": "Multimediedesign",
+    "sted": "KEA (KøbenhavnsErhversakademi"
+  },
+  "erfaring": {
+    "job": "barista på IsSalonen",
+    "job2": "spansk tutor"
+  },
+  "interesser": ["Sport", "designe", "rejse"]
+}
